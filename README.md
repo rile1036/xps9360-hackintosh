@@ -7,7 +7,7 @@
 - SSD : Toshiba thnsn5512gpuk 512GB
 - Ram : 16GB
 - DP : QHD+ 터치스크린
-- Wifi : DW18930
+- Wifi : DW1830
 
 ## Certification Problem
 
